@@ -9,6 +9,8 @@ public class Alpha {
 	String pai;
 
 	private String mãe;
+	
+	public String apelido;
 
 	public static void main(String[] args) {
 		
@@ -17,6 +19,7 @@ public class Alpha {
 		a.sobrenome = "da Silva";
 		a.pai = "Jose";
 		a.mãe = "Maria";
+		a.apelido = "ND";
 	}
 
 }

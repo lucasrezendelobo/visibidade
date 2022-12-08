@@ -11,6 +11,7 @@ public class Gama {
 		a.sobrenome = "da Silva";
 		a.pai = "Jose";
 		a.mãe = "Maria";
+		a.apelido = "ND";
 	}
 
 }
